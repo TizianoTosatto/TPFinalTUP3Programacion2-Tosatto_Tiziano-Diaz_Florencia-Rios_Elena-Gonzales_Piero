@@ -1,0 +1,81 @@
+.contenedor {
+    background-color: rgba(226, 228, 228, 0.979);
+    width: 600px;
+    height: 300px;
+    margin-top: 60px;
+    margin-bottom: 100px;
+    margin-left: 600px;
+    margin-right: 600px;
+    padding-top: 30px;
+    padding-left: 70px;
+    padding-bottom: 30px;
+    padding-bottom: 30px;
+    border-radius: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+input {
+    width: 500px;
+    height: 40px;
+    border-radius: 5px;
+    border-style: none;
+
+
+
+
+}
+
+button {
+    width: 520px;
+    height: 40px;
+    border-radius: 5px;
+    border-style: none;
+}
+
+textarea {
+    border-style: none;
+    margin-top: 5px;
+}
+
+:required {
+    padding-left: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 5px;
+}
+
+label {
+    font-size: 12px;
+}
+
+#Iniciar {
+    background-color: rgb(57, 57, 88);
+    color: white;
+    font-size: 12px;
+    width: 520px;
+
+}
+
+.return {
+    background-color: rgb(146, 146, 245);
+    color: rgb(250, 248, 248);
+    font-size: 12px;
+}
+
+.Olvidaste-contraseña {
+    margin-left: 200px;
+    font-size: 12px;
+}
+
+body {
+    background-color: #242943;
+
+}
+
+.Titulo {
+    font-size: 40px;
+    color: white;
+
+    padding-top: 30px;
+    text-align: center;
+}
